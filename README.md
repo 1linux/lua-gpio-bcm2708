@@ -13,3 +13,4 @@ Example:
     local gpio23=GPIO(23, "in", "off")
     local gpio3=GPIO(3, "out")
 
+Futher processing is identical to periphery.GPIO
